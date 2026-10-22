@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "saved_on": "2026-10-22",
+  "next_loan_id": 6,
+  "items": [
+    {
+      "kind": "tool",
+      "sku": "SLD-001",
+      "name": "Паяльная станция",
+      "category": "Пайка",
+      "total": 4,
+      "available": 1
+    },
+    {
+      "kind": "tool",
+      "sku": "SLD-002",
+      "name": "Паяльник 40 Вт",
+      "category": "Пайка",
+      "total": 6,
+      "available": 6
+    },
+    {
+      "kind": "tool",
+      "sku": "SLD-003",
+      "name": "Термофен",
+      "category": "Пайка",
+      "total": 1,
+      "available": 0
+    },
+    {
+      "kind": "tool",
+      "sku": "MTR-001",
+      "name": "Мультиметр цифровой",
+      "category": "Измерения",
+      "total": 5,
+      "available": 5
+    },
+    {
+      "kind": "tool",
+      "sku": "MTR-002",
+      "name": "Осциллограф USB",
+      "category": "Измерения",
+      "total": 2,
+      "available": 2
+    },
+    {
+      "kind": "tool",
+      "sku": "MTR-003",
+      "name": "Лабораторный блок питания",
+      "category": "Измерения",
+      "total": 3,
+      "available": 3
+    },
+    {
+      "kind": "tool",
+      "sku": "HND-001",
+      "name": "Бокорезы",
+      "category": "Ручной инструмент",
+      "total": 8,
+      "available": 8
+    },
+    {
+      "kind": "tool",
+      "sku": "HND-002",
+      "name": "Пинцет антистатический",
+      "category": "Ручной инструмент",
+      "total": 10,
+      "available": 10
+    },
+    {
+      "kind": "tool",
+      "sku": "HND-003",
+      "name": "Набор отвёрток",
+      "category": "Ручной инструмент",
+      "total": 4,
+      "available": 4
+    },
+    {
+      "kind": "tool",
+      "sku": "ARD-001",
+      "name": "Плата Arduino Uno",
+      "category": "Платы",
+      "total": 12,
+      "available": 12
+    },
+    {
+      "kind": "tool",
+      "sku": "ARD-002",
+      "name": "Плата ESP32",
+      "category": "Платы",
+      "total": 8,
+      "available": 8
+    },
+    {
+      "kind": "consumable",
+      "sku": "RES-010",
+      "name": "Резистор 10 кОм",
+      "category": "Компоненты",
+      "quantity": 400,
+      "min_stock": 100,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "RES-220",
+      "name": "Резистор 220 Ом",
+      "category": "Компоненты",
+      "quantity": 350,
+      "min_stock": 100,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "CAP-104",
+      "name": "Конденсатор 100 нФ",
+      "category": "Компоненты",
+      "quantity": 250,
+      "min_stock": 80,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "LED-005",
+      "name": "Светодиод 5 мм красный",
+      "category": "Компоненты",
+      "quantity": 120,
+      "min_stock": 50,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "LED-006",
+      "name": "Светодиод 5 мм зелёный",
+      "category": "Компоненты",
+      "quantity": 30,
+      "min_stock": 50,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "TRN-222",
+      "name": "Транзистор 2N2222",
+      "category": "Компоненты",
+      "quantity": 60,
+      "min_stock": 30,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "WIR-001",
+      "name": "Провод монтажный 0.5 мм",
+      "category": "Расходники",
+      "quantity": 30,
+      "min_stock": 10,
+      "unit": "м"
+    },
+    {
+      "kind": "consumable",
+      "sku": "SLD-010",
+      "name": "Припой ПОС-61",
+      "category": "Расходники",
+      "quantity": 150,
+      "min_stock": 50,
+      "unit": "г"
+    },
+    {
+      "kind": "consumable",
+      "sku": "FLX-001",
+      "name": "Флюс паяльный",
+      "category": "Расходники",
+      "quantity": 20,
+      "min_stock": 10,
+      "unit": "мл"
+    },
+    {
+      "kind": "consumable",
+      "sku": "PCB-001",
+      "name": "Макетная плата 7x9",
+      "category": "Расходники",
+      "quantity": 25,
+      "min_stock": 10,
+      "unit": "шт"
+    },
+    {
+      "kind": "consumable",
+      "sku": "HSH-001",
+      "name": "Термоусадка 3 мм",
+      "category": "Расходники",
+      "quantity": 3,
+      "min_stock": 10,
+      "unit": "м"
+    }
+  ],
+  "loans": [
+    {
+      "loan_id": 1,
+      "sku": "SLD-003",
+      "borrower": "Алия",
+      "quantity": 1,
+      "issued_on": "2026-10-22",
+      "returnable": true,
+      "returned_on": "2026-10-22"
+    },
+    {
+      "loan_id": 2,
+      "sku": "SLD-001",
+      "borrower": "Алия",
+      "quantity": 3,
+      "issued_on": "2026-10-22",
+      "returnable": true,
+      "returned_on": null
+    },
+    {
+      "loan_id": 3,
+      "sku": "LED-006",
+      "borrower": "Берик",
+      "quantity": 10,
+      "issued_on": "2026-10-22",
+      "returnable": false,
+      "returned_on": null
+    },
+    {
+      "loan_id": 4,
+      "sku": "SLD-003",
+      "borrower": "Дамир",
+      "quantity": 1,
+      "issued_on": "2026-10-22",
+      "returnable": true,
+      "returned_on": null
+    },
+    {
+      "loan_id": 5,
+      "sku": "HSH-001",
+      "borrower": "Дамир",
+      "quantity": 8,
+      "issued_on": "2026-10-22",
+      "returnable": false,
+      "returned_on": null
+    }
+  ],
+  "waitlist": []
+}

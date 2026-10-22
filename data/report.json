@@ -1,0 +1,29 @@
+{
+  "generated_on": "2026-10-22",
+  "totals": {
+    "positions": 1,
+    "tools": 1,
+    "consumables": 0,
+    "active_loans": 1,
+    "waiting_requests": 0
+  },
+  "needs_attention": [],
+  "by_category": {
+    "Инструменты": {
+      "positions": 1,
+      "units_on_hand": 8
+    }
+  },
+  "active_loans_by_borrower": {
+    "Мне": [
+      {
+        "loan_id": 1,
+        "sku": "SLD-008",
+        "name": "Молоток",
+        "quantity": 2,
+        "issued_on": "2026-10-22"
+      }
+    ]
+  },
+  "waitlist": []
+}

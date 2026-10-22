@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "saved_on": "2026-10-22",
+  "next_loan_id": 2,
+  "items": [
+    {
+      "kind": "tool",
+      "sku": "SLD-008",
+      "name": "Молоток",
+      "category": "Инструменты",
+      "total": 10,
+      "available": 8
+    }
+  ],
+  "loans": [
+    {
+      "loan_id": 1,
+      "sku": "SLD-008",
+      "borrower": "Мне",
+      "quantity": 2,
+      "issued_on": "2026-10-22",
+      "returnable": true,
+      "returned_on": null
+    }
+  ],
+  "waitlist": []
+}

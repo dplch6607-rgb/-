@@ -1,0 +1,2 @@
+# Внешние зависимости не нужны: проект использует только стандартную библиотеку Python 3.9+
+# (csv, json, logging, collections, dataclasses, datetime, argparse, unittest).

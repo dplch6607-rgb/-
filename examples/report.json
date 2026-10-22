@@ -1,0 +1,77 @@
+{
+  "generated_on": "2026-10-22",
+  "totals": {
+    "positions": 22,
+    "tools": 11,
+    "consumables": 11,
+    "active_loans": 2,
+    "waiting_requests": 0
+  },
+  "needs_attention": [
+    {
+      "sku": "SLD-003",
+      "name": "Термофен",
+      "kind": "tool",
+      "problem": "все 1 шт. сейчас выданы"
+    },
+    {
+      "sku": "LED-006",
+      "name": "Светодиод 5 мм зелёный",
+      "kind": "consumable",
+      "problem": "осталось 30 шт при минимуме 50"
+    },
+    {
+      "sku": "HSH-001",
+      "name": "Термоусадка 3 мм",
+      "kind": "consumable",
+      "problem": "осталось 3 м при минимуме 10"
+    }
+  ],
+  "by_category": {
+    "Измерения": {
+      "positions": 3,
+      "units_on_hand": 10
+    },
+    "Компоненты": {
+      "positions": 6,
+      "units_on_hand": 1210
+    },
+    "Пайка": {
+      "positions": 3,
+      "units_on_hand": 7
+    },
+    "Платы": {
+      "positions": 2,
+      "units_on_hand": 20
+    },
+    "Расходники": {
+      "positions": 5,
+      "units_on_hand": 228
+    },
+    "Ручной инструмент": {
+      "positions": 3,
+      "units_on_hand": 22
+    }
+  },
+  "active_loans_by_borrower": {
+    "Алия": [
+      {
+        "loan_id": 2,
+        "sku": "SLD-001",
+        "name": "Паяльная станция",
+        "quantity": 3,
+        "issued_on": "2026-10-22"
+      }
+    ],
+    "Дамир": [
+      {
+        "loan_id": 4,
+        "sku": "SLD-003",
+        "name": "Термофен",
+        "quantity": 1,
+        "issued_on": "2026-10-22"
+      }
+    ]
+  },
+  "waitlist": []
+}

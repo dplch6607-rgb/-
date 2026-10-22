@@ -1,0 +1,6 @@
+2026-10-22 10:34:27,051 INFO    workshop.main: Запуск приложения
+2026-10-22 10:35:44,209 INFO    workshop.models: Добавлен предмет SLD-008 «Молоток»
+2026-10-22 10:35:44,214 INFO    workshop.storage: Состояние сохранено: C:\Users\koval\OneDrive\Desktop\danil\data\state.json
+2026-10-22 10:36:19,814 INFO    workshop.models: Выдача №1: SLD-008 ×2 → Мне
+2026-10-22 10:36:19,818 INFO    workshop.storage: Состояние сохранено: C:\Users\koval\OneDrive\Desktop\danil\data\state.json
+2026-10-22 10:36:32,151 INFO    workshop.storage: Отчёт сохранён: C:\Users\koval\OneDrive\Desktop\danil\data\report.json
